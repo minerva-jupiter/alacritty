@@ -1,0 +1,5 @@
+[general]
+working_directory = "C:\\Users\\ryout\\"
+
+[terminal]
+shell = { program = "C:\\Windows\\System32\\cmd.exe", args = ["C:\\Users\\ryout\\"]}
