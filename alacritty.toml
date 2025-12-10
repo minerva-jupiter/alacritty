@@ -2,4 +2,8 @@
 working_directory = "C:\\Users\\ryout\\"
 
 [terminal]
-shell = { program = "C:\\Windows\\System32\\cmd.exe", args = ["C:\\Users\\ryout\\"]}
+shell = { program = "C:\\Program Files\\PowerShell\\7\\pwsh.exe"}
+
+[font]
+normal = { family = "Moralerspace Neon NF" }
+size = 11.6
