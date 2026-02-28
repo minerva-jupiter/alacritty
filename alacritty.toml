@@ -1,9 +1,9 @@
 [general]
-working_directory = "C:\\Users\\ryout\\"
+working_directory = "~"
 
 [terminal]
-shell = { program = "C:\\Program Files\\PowerShell\\7\\pwsh.exe"}
+shell = { program = "bash"}
 
 [font]
-normal = { family = "Moralerspace Neon NF" }
+normal = { family = "Moralerspace Neon" }
 size = 11.6
