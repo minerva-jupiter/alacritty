@@ -4,7 +4,7 @@ working_directory = "C:\\Users\\ryout\\"
 [terminal]
 [terminal.shell]
   program = "nu"
-  args = ["-l","-c","zellij attach --index 0 --create"]
+  args = ["-c","zellij attach --index 0 --create"]
 
 [font]
 normal = { family = "Moralerspace Neon NF" }
