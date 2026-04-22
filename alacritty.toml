@@ -2,7 +2,9 @@
 working_directory = "C:\\Users\\ryout\\"
 
 [terminal]
-shell = { program = "C:\\Program Files\\PowerShell\\7\\pwsh.exe"}
+[terminal.shell]
+  program = "nu"
+  args = ["-l","-c","zellij attach --index 0 --create"]
 
 [font]
 normal = { family = "Moralerspace Neon NF" }
