@@ -2,7 +2,9 @@
 working_directory = "~"
 
 [terminal]
-shell = { program = "bash"}
+[terminal.shell]
+  program = "nu"
+  args = ["-c","zellij attach --index 0 --create"]
 
 [font]
 normal = { family = "Moralerspace Neon" }
